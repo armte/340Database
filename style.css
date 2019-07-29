@@ -1,6 +1,6 @@
 /*****************************************************************************************
 * CSS 340 - Databases
-* Author: 	Tommy Armstrong
+* Author: 	Tommy Armstrong Jason Moule
 * Date:		7/28/2019
 * Description: This is the CSS file that contains the styling for the recipe database project.
 **********************************************************************************************/
@@ -321,6 +321,10 @@ header nav ul li a:hover {
 	font-size: 26px;
 	border-bottom: solid 1px;
 
+}
+
+.add-name, .add-source {
+	margin-bottom: 15px;
 }
 
 .add-ingredients ul {
